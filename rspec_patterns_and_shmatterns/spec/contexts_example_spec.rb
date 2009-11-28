@@ -7,5 +7,3 @@ describe "Basketball lover" do
     it "plays indoors"
   end
 end
-
-

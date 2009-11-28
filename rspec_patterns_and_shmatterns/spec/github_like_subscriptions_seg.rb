@@ -91,9 +91,9 @@ end
 
 
 describe "Repository" do
-  it_should_behave_like "Traits::SubscriptionTopic"
+  it_should_behave_like "Traits::PubSub::Topic"
 end
 
 describe "Person" do
-  it_should_behave_like "Traits::SubscriptionTopic"
+  it_should_behave_like "Traits::PubSub::Topic"
 end

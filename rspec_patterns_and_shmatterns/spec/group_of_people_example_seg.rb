@@ -25,4 +25,3 @@ end
 describe "A project" do
   it_should_behave_like "Group of people"
 end
-
